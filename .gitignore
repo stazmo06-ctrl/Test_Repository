@@ -1,0 +1,4 @@
+nyc_covid_outcomes.db
+#Holds database
+bigquery-key.json
+*-service-account*.json, *.db
