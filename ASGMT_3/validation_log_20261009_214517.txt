@@ -1,0 +1,46 @@
+Row 502 (EmployeeID: 116335.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 1184 (EmployeeID: 170607.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 3643 (EmployeeID: 149828.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 3831 (EmployeeID: 176661.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 6743 (EmployeeID: 108830.0):
+   - Salary out of range for Human Resources Specialist 3. Should be between 32000.0 and 50000.0.
+
+Row 6942 (EmployeeID: 206119.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 7553 (EmployeeID: 100887.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 7919 (EmployeeID: 232932.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 8213 (EmployeeID: 156616.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 9044 (EmployeeID: 221765.0):
+   - JobTitle did not match or is empty.
+
+Row 9239 (EmployeeID: 197964.0):
+   - Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.
+
+Row 13090 (EmployeeID: 469045.0):
+   - Name cannot be null, empty, or duplicated.
+
+Error Summary:
+                                                                                   Error Message  Count
+Salary out of range for Human Resources Manager Level 3. Should be between 90000.0 and 130000.0.      7
+                                                      Name cannot be null, empty, or duplicated.      3
+    Salary out of range for Human Resources Specialist 3. Should be between 32000.0 and 50000.0.      1
+                                                             JobTitle did not match or is empty.      1
+
+Total Rows Processed: 14320
+Total Rows with Errors: 12
+Total Error Messages: 12  <-- graded count (must be < 50)
