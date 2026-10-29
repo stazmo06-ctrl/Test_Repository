@@ -1,0 +1,19 @@
+Row 6942 (EmployeeID: 206119.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 7919 (EmployeeID: 232932.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 13090 (EmployeeID: 469045.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 14321 (EmployeeID: 211506.0):
+   - Name cannot be null, empty, or duplicated.
+
+Error Summary:
+                             Error Message  Count
+Name cannot be null, empty, or duplicated.      4
+
+Total Rows Processed: 14321
+Total Rows with Errors: 4
+Total Error Messages: 4  <-- graded count (must be < 50)

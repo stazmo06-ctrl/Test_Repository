@@ -1,0 +1,401 @@
+OrderCode,LoyaltyID,CustomerName,CustomerEmail,SignupDate,Store,StoreStreet,StoreCity,StoreState,Product,Category,Price,OrderDate
+50001,L1046,Dev Patel,dev.patel46@example.com,11/11/2021,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,01/22/2025
+50002,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,04/14/2025
+50003,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,09/10/2025
+50004,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,09/19/2025
+50005,L1059,Sam Nguyen,sam.nguyen59@example.com,04/22/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,04/01/2025
+50006,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,01/29/2025
+50007,L1016,Jack Brown,jack.brown16@example.com,08/22/2023,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,5.50,06/04/2025
+50008,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,01/10/2025
+50009,L1035,Ruby Brown,ruby.brown35@example.com,04/11/2024,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,5.50,06/26/2025
+50010,L1007,Ruby Davis,ruby.davis7@example.com,,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,04/17/2025
+50011,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,7.90,05/11/2025
+50012,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,5.20,02/26/2025
+50013,L1047,Mia Garcia,mia.garcia47@example.com,11/27/2023,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,01/30/2025
+50014,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,05/04/2025
+50015,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,9.75,01/11/2025
+50016,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,01/03/2025
+50017,L1046,Dev Patel,dev.patel46@example.com,11/11/2021,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,05/01/2025
+50018,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,,06/16/2025
+50019,L1007,Ruby Davis,ruby.davis7@example.com,,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,05/01/2025
+50020,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,2.60,01/06/2025
+50021,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,08/13/2025
+50022,L1007,Ruby Davis,ruby.davis7@example.com,,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,05/18/2025
+50023,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,6.20,06/02/2025
+50024,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,02/25/2025
+50025,L1050,Cora Brown,cora.brown50@example.com,02/24/2023,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,6.80,05/19/2025
+50026,L1007,Ruby Davis,ruby.davis7@example.com,,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,11.85,08/20/2025
+50027,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,03/05/2025
+50028,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,05/30/2025
+50029,L1015,Nora Kim,nora.kim15@example.com,06/21/2022,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,6.80,05/02/2025
+50030,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,06/06/2025
+50031,L1015,Nora Kim,nora.kim15@example.com,06/21/2022,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,5.50,01/12/2025
+50032,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,10.20,04/06/2025
+50033,L1045,Lucas Garcia,lucas.garcia45@example.com,12/03/2021,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,7.80,03/30/2025
+50034,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,07/21/2025
+50035,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,6.50,08/17/2025
+50036,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,07/17/2025
+50037,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,07/14/2025
+50038,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,6.50,05/13/2025
+50039,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,05/01/2025
+50040,L1045,Lucas Garcia,lucas.garcia45@example.com,12/03/2021,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,2.75,09/19/2025
+50041,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,7.90,04/22/2025
+50042,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,7.80,06/05/2025
+50043,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,03/16/2025
+50044,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,01/19/2025
+50045,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,6.80,04/18/2025
+50046,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,09/06/2025
+50047,L1004,Ruby Kim,ruby.kim4@example.com,10/14/2022,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,06/28/2025
+50048,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Downtown,101 Main St,Bryan,TX,Latte,Coffee,13.50,04/30/2025
+50049,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,2.60,09/23/2025
+50050,L1007,Ruby Davis,ruby.davis7@example.com,,Downtown,101 Main St,Bryan,TX,Latte,Coffee,9.00,09/05/2025
+50051,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,9.75,09/12/2025
+50052,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,03/14/2025
+50053,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Northgate,300 University Dr,College Station,TX,Latte,Coffee,13.50,04/10/2025
+50054,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,5.50,06/07/2025
+50055,L1009,Noah Lopez,noah.lopez9@example.com,07/18/2021,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,6.20,07/06/2025
+50056,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,5.20,09/25/2025
+50057,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,08/09/2025
+50058,L1054,Leah Davis,leah.davis54@example.com,07/03/2023,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,9.75,08/29/2025
+50059,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,01/27/2025
+50060,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,2.60,07/12/2025
+50061,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,7.90,01/03/2025
+50062,L1059,Sam Nguyen,sam.nguyen59@example.com,04/22/2021,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,03/10/2025
+50063,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,7.80,03/05/2025
+50064,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,10.20,02/07/2025
+50065,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,4.25,06/25/2025
+50066,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,04/22/2025
+50067,L1011,Ava Reyes,ava.reyes11@example.com,12/16/2022,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,01/06/2025
+50068,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,08/23/2025
+50069,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,6.50,03/10/2025
+50070,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,02/20/2025
+50071,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,01/07/2025
+50072,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Northgate,300 University Dr,College Station,TX,Latte,Coffee,13.50,02/14/2025
+50073,L1000,Aria Lopez,aria.lopez0@example.com,08/12/2023,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,02/22/2025
+50074,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,05/07/2025
+50075,L1007,Ruby Davis,ruby.davis7@example.com,,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,2.60,08/13/2025
+50076,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,05/31/2025
+50077,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,09/25/2025
+50078,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,11.85,01/15/2025
+50079,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,03/29/2025
+50080,L1016,Jack Brown,jack.brown16@example.com,08/22/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,02/22/2025
+50081,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,7.90,01/17/2025
+50082,L1051,Ivy Garcia,ivy.garcia51@example.com,01/30/2022,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,03/21/2025
+50083,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,03/19/2025
+50084,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,6.80,04/19/2025
+50085,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,03/26/2025
+50086,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,13.50,04/05/2025
+50087,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,03/07/2025
+50088,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,5.20,05/29/2025
+50089,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,08/26/2025
+50090,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,8.50,05/20/2025
+50091,L1043,Ethan Garcia,ethan.garcia43@example.com,10/11/2024,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,08/24/2025
+50092,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,4.25,09/23/2025
+50093,L1003,Ben Lopez,ben.lopez3@example.com,01/06/2024,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,08/31/2025
+50094,L1023,Lucas Garcia,lucas.garcia23@example.com,11/12/2022,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,6.80,01/10/2025
+50095,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,09/27/2025
+50096,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,03/30/2025
+50097,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,06/10/2025
+50098,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,11.85,02/26/2025
+50099,L1045,Lucas Garcia,lucas.garcia45@example.com,12/03/2021,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,10.20,01/28/2025
+50100,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,03/30/2025
+50101,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,01/29/2025
+50102,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,04/11/2025
+50103,L1015,Nora Kim,nora.kim15@example.com,06/21/2022,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,06/27/2025
+50104,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,01/25/2025
+50105,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,03/06/2025
+50106,L1001,Sam Nguyen,sam.nguyen1@example.com,09/24/2023,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,06/27/2025
+50107,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,9.75,02/16/2025
+50108,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,02/12/2025
+50109,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,02/17/2025
+50110,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,6.20,04/23/2025
+50111,L1041,Nora Patel,nora.patel41@example.com,,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,2.75,01/17/2025
+50112,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,04/07/2025
+50113,L1054,Leah Davis,leah.davis54@example.com,07/03/2023,Southside,4500 Texas Ave,College Station,TX,Cold Brew,Coffee,4.25,07/25/2025
+50114,L1037,Ben Reyes,ben.reyes37@example.com,03/02/2021,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,5.20,02/15/2025
+50115,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,01/14/2025
+50116,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,2.75,05/27/2025
+50117,L1004,Ruby Kim,ruby.kim4@example.com,10/14/2022,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,06/11/2025
+50118,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Southside,4500 Texas Ave,College Station,TX,Cold Brew,Coffee,12.75,09/08/2025
+50119,L1001,Sam Nguyen,sam.nguyen1@example.com,09/24/2023,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,6.50,06/13/2025
+50120,L1036,Ava Lopez,ava.lopez36@example.com,04/24/2023,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,3.25,03/29/2025
+50121,L1028,Ruby Smith,ruby.smith28@example.com,03/25/2022,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,6.50,06/19/2025
+50122,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,05/11/2025
+50123,L1000,Aria Lopez,aria.lopez0@example.com,08/12/2023,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,05/17/2025
+50124,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,09/13/2025
+50125,L1043,Ethan Garcia,ethan.garcia43@example.com,10/11/2024,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,03/09/2025
+50126,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,9.75,01/15/2025
+50127,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,09/13/2025
+50128,L1054,Leah Davis,leah.davis54@example.com,07/03/2023,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,01/08/2025
+50129,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,08/26/2025
+50130,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,03/30/2025
+50131,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,6.80,06/13/2025
+50132,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,9.30,05/10/2025
+50133,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,05/06/2025
+50134,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,9.30,07/17/2025
+50135,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,05/12/2025
+50136,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,6.20,01/08/2025
+50137,L1001,Sam Nguyen,sam.nguyen1@example.com,09/24/2023,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,06/13/2025
+50138,L1036,Ava Lopez,ava.lopez36@example.com,04/24/2023,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,2.75,05/11/2025
+50139,L1011,Ava Reyes,ava.reyes11@example.com,12/16/2022,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,6.50,09/09/2025
+50140,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,09/19/2025
+50141,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,06/02/2025
+50142,L1045,Lucas Garcia,lucas.garcia45@example.com,12/03/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,5.20,08/31/2025
+50143,L1051,Ivy Garcia,ivy.garcia51@example.com,01/30/2022,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,6.50,03/06/2025
+50144,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,04/26/2025
+50145,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,6.20,09/05/2025
+50146,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,5.50,06/12/2025
+50147,L1030,Leah Patel,leah.patel30@example.com,11/22/2021,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,02/01/2025
+50148,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,01/08/2025
+50149,L1009,Noah Lopez,noah.lopez9@example.com,07/18/2021,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,10.20,04/21/2025
+50150,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,05/19/2025
+50151,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,2.75,07/23/2025
+50152,L1046,Dev Patel,dev.patel46@example.com,11/11/2021,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,05/01/2025
+50153,L1051,Ivy Garcia,ivy.garcia51@example.com,01/30/2022,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,04/13/2025
+50154,L1026,Eli Smith,eli.smith26@example.com,06/12/2022,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,5.50,03/06/2025
+50155,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,07/08/2025
+50156,L1041,Nora Patel,nora.patel41@example.com,,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,09/24/2025
+50157,L1001,Sam Nguyen,sam.nguyen1@example.com,09/24/2023,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,4.25,05/23/2025
+50158,L1020,Jack Smith,jack.smith20@example.com,05/12/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,05/31/2025
+50159,L1045,Lucas Garcia,lucas.garcia45@example.com,12/03/2021,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,4.50,01/25/2025
+50160,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,7.90,07/03/2025
+50161,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,08/29/2025
+50162,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,6.20,04/13/2025
+50163,L1007,Ruby Davis,ruby.davis7@example.com,,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,03/16/2025
+50164,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,4.25,04/19/2025
+50165,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,5.50,08/15/2025
+50166,L1034,Ava Patel,ava.patel34@example.com,08/08/2023,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,05/30/2025
+50167,L1007,Ruby Davis,ruby.davis7@example.com,,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,07/19/2025
+50168,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,6.80,07/23/2025
+50169,L1051,Ivy Garcia,ivy.garcia51@example.com,01/30/2022,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,08/16/2025
+50170,L1037,Ben Reyes,ben.reyes37@example.com,03/02/2021,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,8.50,03/02/2025
+50171,L1044,Cora Davis,cora.davis44@example.com,07/15/2024,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,7.90,02/03/2025
+50172,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,07/23/2025
+50173,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,3.25,05/16/2025
+50174,L1011,Ava Reyes,ava.reyes11@example.com,12/16/2022,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,6.80,01/07/2025
+50175,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,6.20,05/09/2025
+50176,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,09/11/2025
+50177,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,09/02/2025
+50178,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,5.50,08/05/2025
+50179,L1001,Sam Nguyen,sam.nguyen1@example.com,09/24/2023,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,01/21/2025
+50180,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,06/27/2025
+50181,L1009,Noah Lopez,noah.lopez9@example.com,07/18/2021,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,12.75,01/14/2025
+50182,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,05/02/2025
+50183,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,06/01/2025
+50184,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,05/31/2025
+50185,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,8.25,04/01/2025
+50186,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,02/24/2025
+50187,L1023,Lucas Garcia,lucas.garcia23@example.com,11/12/2022,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,6.80,06/23/2025
+50188,L1016,Jack Brown,jack.brown16@example.com,08/22/2023,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,4.50,09/10/2025
+50189,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,03/31/2025
+50190,L1036,Ava Lopez,ava.lopez36@example.com,04/24/2023,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,5.20,01/20/2025
+50191,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,7.80,05/23/2025
+50192,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,04/30/2025
+50193,L1037,Ben Reyes,ben.reyes37@example.com,03/02/2021,Northgate,300 University Dr,College Station,TX,Latte,Coffee,4.50,01/05/2025
+50194,L1030,Leah Patel,leah.patel30@example.com,11/22/2021,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,05/24/2025
+50195,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Downtown,101 Main St,Bryan,TX,Latte,Coffee,9.00,02/12/2025
+50196,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,08/14/2025
+50197,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,06/24/2025
+50198,L1000,Aria Lopez,aria.lopez0@example.com,08/12/2023,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,6.80,01/05/2025
+50199,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,06/03/2025
+50200,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,8.50,03/22/2025
+50201,L1009,Noah Lopez,noah.lopez9@example.com,07/18/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,13.50,08/17/2025
+50202,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,06/30/2025
+50203,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,6.20,07/24/2025
+50204,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,,08/24/2025
+50205,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,08/25/2025
+50206,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,7.80,02/04/2025
+50207,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,07/29/2025
+50208,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,09/14/2025
+50209,L1030,Leah Patel,leah.patel30@example.com,11/22/2021,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,13.50,06/21/2025
+50210,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,2.60,07/28/2025
+50211,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,03/09/2025
+50212,L1004,Ruby Kim,ruby.kim4@example.com,10/14/2022,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,01/18/2025
+50213,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,12.75,03/29/2025
+50214,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,11.85,08/13/2025
+50215,L1023,Lucas Garcia,lucas.garcia23@example.com,11/12/2022,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,07/03/2025
+50216,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,04/13/2025
+50217,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,05/30/2025
+50218,L1004,Ruby Kim,ruby.kim4@example.com,10/14/2022,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,07/18/2025
+50219,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,07/22/2025
+50220,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,06/14/2025
+50221,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,2.60,08/07/2025
+50222,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Southside,4500 Texas Ave,College Station,TX,Cold Brew,Coffee,8.50,01/18/2025
+50223,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,4.50,01/23/2025
+50224,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,2.60,06/17/2025
+50225,L1009,Noah Lopez,noah.lopez9@example.com,07/18/2021,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,3.25,07/20/2025
+50226,L1028,Ruby Smith,ruby.smith28@example.com,03/25/2022,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,2.75,04/02/2025
+50227,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,6.80,01/14/2025
+50228,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,11.85,09/01/2025
+50229,L1053,Aria Kim,aria.kim53@example.com,09/22/2024,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,11.85,08/09/2025
+50230,L1007,Ruby Davis,ruby.davis7@example.com,,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,12.75,01/02/2025
+50231,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Downtown,101 Main St,Bryan,TX,Latte,Coffee,9.00,09/19/2025
+50232,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,5.50,03/20/2025
+50233,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,06/28/2025
+50234,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,3.10,08/18/2025
+50235,L1007,Ruby Davis,ruby.davis7@example.com,,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,01/28/2025
+50236,L1026,Eli Smith,eli.smith26@example.com,06/12/2022,Southside,4500 Texas Ave,College Station,TX,Cold Brew,Coffee,8.50,04/03/2025
+50237,L1028,Ruby Smith,ruby.smith28@example.com,03/25/2022,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,07/18/2025
+50238,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,2.75,07/02/2025
+50239,L1023,Lucas Garcia,lucas.garcia23@example.com,11/12/2022,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,02/22/2025
+50240,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,05/22/2025
+50241,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,6.80,08/15/2025
+50242,L1000,Aria Lopez,aria.lopez0@example.com,08/12/2023,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,06/08/2025
+50243,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,06/29/2025
+50244,L1035,Ruby Brown,ruby.brown35@example.com,04/11/2024,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,4.50,02/26/2025
+50245,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,6.50,07/22/2025
+50246,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,09/04/2025
+50247,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,5.50,05/29/2025
+50248,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Southside,4500 Texas Ave,College Station,TX,Cold Brew,Coffee,8.50,06/18/2025
+50249,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,12.75,03/07/2025
+50250,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,08/11/2025
+50251,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,0,03/14/2025
+50252,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,7.80,09/22/2025
+50253,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,06/04/2025
+50254,L1044,Cora Davis,cora.davis44@example.com,07/15/2024,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,6.50,07/13/2025
+50255,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,10.20,08/05/2025
+50256,L1054,Leah Davis,leah.davis54@example.com,07/03/2023,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,12.75,03/30/2025
+50257,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,04/05/2025
+50258,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,4.25,06/23/2025
+50259,L1050,Cora Brown,cora.brown50@example.com,02/24/2023,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,09/08/2025
+50260,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,07/27/2025
+50261,L1052,Nora Smith,nora.smith52@example.com,07/04/2022,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,6.50,05/28/2025
+50262,L1047,Mia Garcia,mia.garcia47@example.com,11/27/2023,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,7.90,08/12/2025
+50263,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,03/20/2025
+50264,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,5.50,01/21/2025
+50265,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,4.25,04/05/2025
+50266,L1007,Ruby Davis,ruby.davis7@example.com,,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,05/22/2025
+50267,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,01/06/2025
+50268,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,6.80,05/12/2025
+50269,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,09/09/2025
+50270,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,07/30/2025
+50271,L1059,Sam Nguyen,sam.nguyen59@example.com,04/22/2021,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,6.80,04/29/2025
+50272,L1025,Lucas Nguyen,lucas.nguyen25@example.com,11/15/2021,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,04/07/2025
+50273,L1011,Ava Reyes,ava.reyes11@example.com,12/16/2022,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,4.50,09/02/2025
+50274,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,06/08/2025
+50275,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Northgate,300 University Dr,College Station,TX,Latte,Coffee,4.50,03/16/2025
+50276,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,4.25,05/02/2025
+50277,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,11.85,06/23/2025
+50278,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,5.50,01/28/2025
+50279,L1037,Ben Reyes,ben.reyes37@example.com,03/02/2021,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,9.00,08/06/2025
+50280,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,3.25,09/01/2025
+50281,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,04/04/2025
+50282,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,10.20,08/27/2025
+50283,L1050,Cora Brown,cora.brown50@example.com,02/24/2023,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,13.50,05/08/2025
+50284,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,6.50,02/18/2025
+50285,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,9.00,08/22/2025
+50286,L1044,Cora Davis,cora.davis44@example.com,07/15/2024,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,08/17/2025
+50287,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,07/23/2025
+50288,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,9.00,09/26/2025
+50289,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,7.90,06/14/2025
+50290,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,6.80,07/21/2025
+50291,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,7.80,01/07/2025
+50292,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,05/01/2025
+50293,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,05/10/2025
+50294,L1034,Ava Patel,ava.patel34@example.com,08/08/2023,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,02/17/2025
+50295,L1043,Ethan Garcia,ethan.garcia43@example.com,10/11/2024,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,2.75,03/11/2025
+50296,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,04/25/2025
+50297,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,8.25,08/31/2025
+50298,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,9.00,07/10/2025
+50299,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,7.90,04/16/2025
+50300,L1015,Nora Kim,nora.kim15@example.com,06/21/2022,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,06/14/2025
+50301,L1016,Jack Brown,jack.brown16@example.com,08/22/2023,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,2.60,09/15/2025
+50302,L1026,Eli Smith,eli.smith26@example.com,06/12/2022,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,04/26/2025
+50303,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,4.25,05/15/2025
+50304,L1035,Ruby Brown,ruby.brown35@example.com,04/11/2024,Downtown,101 Main St,Bryan,TX,Latte,Coffee,13.50,07/01/2025
+50305,L1048,Eli Reyes,eli.reyes48@example.com,05/07/2024,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,11.85,08/07/2025
+50306,L1002,Leah Brown,leah.brown2@example.com,01/23/2022,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,09/15/2025
+50307,L1041,Nora Patel,nora.patel41@example.com,,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,2.75,05/30/2025
+50308,L1050,Cora Brown,cora.brown50@example.com,02/24/2023,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,3.25,01/12/2025
+50309,L1046,Dev Patel,dev.patel46@example.com,11/11/2021,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,06/16/2025
+50310,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,13.50,05/15/2025
+50311,L1001,Sam Nguyen,sam.nguyen1@example.com,09/24/2023,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,01/05/2025
+50312,L1053,Aria Kim,aria.kim53@example.com,09/22/2024,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,10.20,03/30/2025
+50313,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,3.40,05/02/2025
+50314,L1022,Ivy Davis,ivy.davis22@example.com,10/31/2024,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,04/09/2025
+50315,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,03/14/2025
+50316,L1044,Cora Davis,cora.davis44@example.com,07/15/2024,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,4.25,03/01/2025
+50317,L1043,Ethan Garcia,ethan.garcia43@example.com,10/11/2024,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,09/13/2025
+50318,L1047,Mia Garcia,mia.garcia47@example.com,11/27/2023,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,8.50,06/17/2025
+50319,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,5.50,02/23/2025
+50320,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,08/17/2025
+50321,L1057,Leah Davis,leah.davis57@example.com,03/30/2021,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,5.20,02/14/2025
+50322,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,5.50,02/27/2025
+50323,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,4.50,09/27/2025
+50324,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,05/19/2025
+50325,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Bagel,Bakery,2.60,02/11/2025
+50326,L1026,Eli Smith,eli.smith26@example.com,06/12/2022,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,08/09/2025
+50327,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,04/22/2025
+50328,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,3.10,05/04/2025
+50329,L1005,Nora Smith,nora.smith5@example.com,11/08/2023,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,10.20,09/05/2025
+50330,L1051,Ivy Garcia,ivy.garcia51@example.com,01/30/2022,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,7.80,06/03/2025
+50331,L1027,Ben Smith,ben.smith27@example.com,11/03/2021,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,9.00,05/24/2025
+50332,L1006,Jack Smith,jack.smith6@example.com,09/11/2021,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,02/16/2025
+50333,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,7.90,05/01/2025
+50334,L1020,Jack Smith,jack.smith20@example.com,05/12/2021,Southside,4500 Texas Ave,College Station,TX,Croissant,Bakery,3.40,06/10/2025
+50335,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,4.50,06/16/2025
+50336,L1047,Mia Garcia,mia.garcia47@example.com,11/27/2023,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,7.90,01/16/2025
+50337,L1046,Dev Patel,dev.patel46@example.com,11/11/2021,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,6.50,03/18/2025
+50338,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,5.20,03/15/2025
+50339,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,6.80,07/28/2025
+50340,L1055,Sam Kim,sam.kim55@example.com,03/11/2021,Southside,4500 Texas Ave,College Station,TX,Cold Brew,Coffee,4.25,08/12/2025
+50341,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,06/30/2025
+50342,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,09/19/2025
+50343,L1030,Leah Patel,leah.patel30@example.com,11/22/2021,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,5.50,04/03/2025
+50344,L1003,Ben Lopez,ben.lopez3@example.com,01/06/2024,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,6.20,02/11/2025
+50345,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,6.20,04/19/2025
+50346,L1035,Ruby Brown,ruby.brown35@example.com,04/11/2024,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,4.25,08/02/2025
+50347,L1003,Ben Lopez,ben.lopez3@example.com,01/06/2024,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,03/16/2025
+50348,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Northgate,300 University Dr,College Station,TX,Bagel,Bakery,2.60,06/01/2025
+50349,L1014,Mia Reyes,mia.reyes14@example.com,01/28/2022,Southside,4500 Texas Ave,College Station,TX,Chai Tea,Tea,3.95,01/15/2025
+50350,L1034,Ava Patel,ava.patel34@example.com,08/08/2023,Airport,1 Terminal Rd,Houston,TX,Latte,Coffee,4.50,09/20/2025
+50351,L1007,Ruby Davis,ruby.davis7@example.com,,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,9.75,09/28/2025
+50352,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,8.50,01/19/2025
+50353,L1029,Ethan Smith,ethan.smith29@example.com,01/11/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,3.25,05/08/2025
+50354,L1020,Jack Smith,jack.smith20@example.com,05/12/2021,Airport,1 Terminal Rd,Houston,TX,Chai Tea,Tea,3.95,07/26/2025
+50355,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,8.25,06/02/2025
+50356,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,9.30,01/31/2025
+50357,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Northgate,300 University Dr,College Station,TX,Blueberry Muffin,Bakery,3.10,06/05/2025
+50358,L1024,Ethan Garcia,ethan.garcia24@example.com,12/14/2021,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,4.25,08/19/2025
+50359,L1008,Ethan Garcia,ethan.garcia8@example.com,02/08/2022,Southside,4500 Texas Ave,College Station,TX,Drip Coffee,Coffee,2.75,08/06/2025
+50360,L1012,Ben Nguyen,ben.nguyen12@example.com,10/18/2024,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,9.75,03/31/2025
+50361,L1040,Leah Nguyen,leah.nguyen40@example.com,03/12/2021,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,04/22/2025
+50362,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,6.20,05/06/2025
+50363,L1042,Mia Kim,mia.kim42@example.com,09/25/2023,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,10.20,01/29/2025
+50364,L1044,Cora Davis,cora.davis44@example.com,07/15/2024,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,6.20,04/16/2025
+50365,L1058,Maya Reyes,maya.reyes58@example.com,04/24/2021,Northgate,300 University Dr,College Station,TX,Drip Coffee,Coffee,8.25,04/01/2025
+50366,L1036,Ava Lopez,ava.lopez36@example.com,04/24/2023,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,3.40,03/25/2025
+50367,L1016,Jack Brown,jack.brown16@example.com,08/22/2023,Northgate,300 University Dr,College Station,TX,Croissant,Bakery,3.40,08/22/2025
+50368,L1053,Aria Kim,aria.kim53@example.com,09/22/2024,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,08/13/2025
+50369,L1030,Leah Patel,leah.patel30@example.com,11/22/2021,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,06/11/2025
+50370,L1028,Ruby Smith,ruby.smith28@example.com,03/25/2022,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,6.80,08/23/2025
+50371,L1047,Mia Garcia,mia.garcia47@example.com,11/27/2023,Southside,4500 Texas Ave,College Station,TX,Latte,Coffee,4.50,06/07/2025
+50372,L1032,Leah Reyes,leah.reyes32@example.com,01/02/2021,Downtown,101 Main St,Bryan,TX,Green Tea,Tea,3.25,02/14/2025
+50373,L1007,Ruby Davis,ruby.davis7@example.com,,Northgate,300 University Dr,College Station,TX,Cold Brew,Coffee,8.50,09/06/2025
+50374,L1037,Ben Reyes,ben.reyes37@example.com,03/02/2021,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,3.25,02/11/2025
+50375,L1047,Mia Garcia,mia.garcia47@example.com,11/27/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,6.20,02/28/2025
+50376,L1038,Owen Lopez,owen.lopez38@example.com,10/16/2024,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,7.80,02/10/2025
+50377,L1049,Owen Davis,owen.davis49@example.com,08/01/2024,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,9.75,08/15/2025
+50378,L1053,Aria Kim,aria.kim53@example.com,09/22/2024,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,7.90,03/19/2025
+50379,L1033,Ben Nguyen,ben.nguyen33@example.com,05/21/2021,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,6.50,09/19/2025
+50380,L1044,Cora Davis,cora.davis44@example.com,07/15/2024,Downtown,101 Main St,Bryan,TX,Chai Tea,Tea,3.95,07/30/2025
+50381,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Airport,1 Terminal Rd,Houston,TX,Drip Coffee,Coffee,2.75,06/18/2025
+50382,L1039,Maya Kim,maya.kim39@example.com,07/18/2023,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,6.80,05/14/2025
+50383,L1016,Jack Brown,jack.brown16@example.com,08/22/2023,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,3.10,09/16/2025
+50384,L1030,Leah Patel,leah.patel30@example.com,11/22/2021,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,2.60,09/21/2025
+50385,L1017,Zoe Garcia,zoe.garcia17@example.com,06/11/2024,Downtown,101 Main St,Bryan,TX,Latte,Coffee,4.50,06/19/2025
+50386,L1023,Lucas Garcia,lucas.garcia23@example.com,11/12/2022,Downtown,101 Main St,Bryan,TX,Cold Brew,Coffee,8.50,08/04/2025
+50387,L1013,Maya Lopez,maya.lopez13@example.com,06/06/2021,Airport,1 Terminal Rd,Houston,TX,Green Tea,Tea,3.25,02/01/2025
+50388,L1059,Sam Nguyen,sam.nguyen59@example.com,04/22/2021,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,8.50,07/14/2025
+50389,L1041,Nora Patel,nora.patel41@example.com,,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,,07/16/2025
+50390,L1046,Dev Patel,dev.patel46@example.com,11/11/2021,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,3.95,02/02/2025
+50391,L1019,Mia Lopez,mia.lopez19@example.com,09/12/2023,Northgate,300 University Dr,College Station,TX,Latte,Coffee,9.00,08/17/2025
+50392,L1010,Liam Patel,liam.patel10@example.com,02/07/2021,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,6.20,05/08/2025
+50393,L1031,Ava Chen,ava.chen31@example.com,08/07/2023,Airport,1 Terminal Rd,Houston,TX,Blueberry Muffin,Bakery,6.20,06/30/2025
+50394,L1015,Nora Kim,nora.kim15@example.com,06/21/2022,Downtown,101 Main St,Bryan,TX,Drip Coffee,Coffee,2.75,05/11/2025
+50395,L1056,Nora Brown,nora.brown56@example.com,01/23/2023,Southside,4500 Texas Ave,College Station,TX,Bagel,Bakery,7.80,06/15/2025
+50396,L1021,Noah Davis,noah.davis21@example.com,07/31/2023,Airport,1 Terminal Rd,Houston,TX,Cold Brew,Coffee,8.50,04/20/2025
+50397,L1054,Leah Davis,leah.davis54@example.com,07/03/2023,Downtown,101 Main St,Bryan,TX,Croissant,Bakery,6.80,02/04/2025
+50398,L1018,Zoe Davis,zoe.davis18@example.com,12/28/2023,Northgate,300 University Dr,College Station,TX,Green Tea,Tea,6.50,05/04/2025
+50399,L1006,Jack Smith,jack.smith6@example.com,09/11/2021,Northgate,300 University Dr,College Station,TX,Chai Tea,Tea,7.90,08/23/2025
+50400,L1004,Ruby Kim,ruby.kim4@example.com,10/14/2022,Downtown,101 Main St,Bryan,TX,Bagel,Bakery,5.20,06/29/2025

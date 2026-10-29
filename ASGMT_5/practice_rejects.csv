@@ -1,0 +1,5 @@
+OrderCode,LoyaltyID,CustomerName,CustomerEmail,SignupDate,Store,StoreStreet,StoreCity,StoreState,Product,Category,Price,OrderDate
+50018,L1058,Maya Reyes,maya.reyes58@example.com,2021-04-24,Southside,4500 Texas Ave,College Station,TX,Blueberry Muffin,Bakery,,2025-06-16
+50204,L1055,Sam Kim,sam.kim55@example.com,2021-03-11,Southside,4500 Texas Ave,College Station,TX,Green Tea,Tea,,2025-08-24
+50251,L1038,Owen Lopez,owen.lopez38@example.com,2024-10-16,Airport,1 Terminal Rd,Houston,TX,Croissant,Bakery,0.0,2025-03-14
+50389,L1041,Nora Patel,nora.patel41@example.com,,Downtown,101 Main St,Bryan,TX,Blueberry Muffin,Bakery,,2025-07-16

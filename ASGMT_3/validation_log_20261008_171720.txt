@@ -1,0 +1,175 @@
+Row 31 (EmployeeID: 389490.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 45 (EmployeeID: 370300.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 285 (EmployeeID: 285438.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 980 (EmployeeID: 288963.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 982 (EmployeeID: 200495.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 1554 (EmployeeID: 293176.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 1670 (EmployeeID: 230299.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 1776 (EmployeeID: 228533.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2122 (EmployeeID: 485119.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2192 (EmployeeID: 424551.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2509 (EmployeeID: 200422.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2767 (EmployeeID: 298578.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3460 (EmployeeID: 213059.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3634 (EmployeeID: 325500.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3916 (EmployeeID: 235374.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3974 (EmployeeID: 485181.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4226 (EmployeeID: 125058.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4423 (EmployeeID: 207716.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4937 (EmployeeID: 279424.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4993 (EmployeeID: 227085.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5156 (EmployeeID: 221820.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5251 (EmployeeID: 226007.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5633 (EmployeeID: 289277.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5692 (EmployeeID: 253502.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5950 (EmployeeID: 377293.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6198 (EmployeeID: 390711.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6290 (EmployeeID: 285750.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6343 (EmployeeID: 223290.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6937 (EmployeeID: 293068.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7010 (EmployeeID: 278134.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7056 (EmployeeID: 390619.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7539 (EmployeeID: 138405.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7664 (EmployeeID: 329076.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7674 (EmployeeID: 239093.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 8125 (EmployeeID: 229129.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 8140 (EmployeeID: 122170.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 9249 (EmployeeID: 332767.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 9583 (EmployeeID: 287347.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10000 (EmployeeID: 278298.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10336 (EmployeeID: 290007.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10442 (EmployeeID: 389905.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10745 (EmployeeID: 288830.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10759 (EmployeeID: 296704.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 11105 (EmployeeID: 240880.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 11876 (EmployeeID: 222402.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12101 (EmployeeID: 477763.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12164 (EmployeeID: 244867.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12371 (EmployeeID: 281188.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12635 (EmployeeID: 232289.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12659 (EmployeeID: 223969.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12973 (EmployeeID: 456179.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 13214 (EmployeeID: 287539.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 13827 (EmployeeID: 294427.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 13947 (EmployeeID: 199906.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 14044 (EmployeeID: 433408.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 14054 (EmployeeID: 326720.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Error Summary:
+                                               Error Message  Count
+Email must be in format 'firstname_lastname_number@KLB.com'.     56
+
+Total Rows Processed: 14321
+Total Rows with Errors: 56
+Total Error Messages: 56  <-- graded count (must be < 50)

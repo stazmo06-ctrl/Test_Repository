@@ -1,0 +1,387 @@
+Row 31 (EmployeeID: 389490.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 45 (EmployeeID: 370300.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 285 (EmployeeID: 285438.0):
+   - HighestDegree cannot be null or empty.
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 291 (EmployeeID: 209111.0):
+   - HighestDegree cannot be null or empty.
+
+Row 378 (EmployeeID: 232305.0):
+   - HighestDegree cannot be null or empty.
+
+Row 429 (EmployeeID: 224786.0):
+   - HighestDegree cannot be null or empty.
+
+Row 601 (EmployeeID: 200975.0):
+   - HighestDegree cannot be null or empty.
+
+Row 980 (EmployeeID: 288963.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 982 (EmployeeID: 200495.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 1394 (EmployeeID: 260299.0):
+   - HighestDegree cannot be null or empty.
+
+Row 1554 (EmployeeID: 293176.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 1645 (EmployeeID: 238039.0):
+   - HighestDegree cannot be null or empty.
+
+Row 1670 (EmployeeID: 230299.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 1776 (EmployeeID: 228533.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2018 (EmployeeID: 215606.0):
+   - HighestDegree cannot be null or empty.
+
+Row 2122 (EmployeeID: 485119.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2131 (EmployeeID: 257764.0):
+   - HighestDegree cannot be null or empty.
+
+Row 2192 (EmployeeID: 424551.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2509 (EmployeeID: 200422.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2740 (EmployeeID: 499177.0):
+   - HighestDegree cannot be null or empty.
+
+Row 2767 (EmployeeID: 298578.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 2873 (EmployeeID: 290486.0):
+   - HighestDegree cannot be null or empty.
+
+Row 2926 (EmployeeID: 206547.0):
+   - HighestDegree cannot be null or empty.
+
+Row 2946 (EmployeeID: 170657.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3110 (EmployeeID: 425785.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3137 (EmployeeID: 286018.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3320 (EmployeeID: 279567.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3373 (EmployeeID: 181004.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3378 (EmployeeID: 248492.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3460 (EmployeeID: 213059.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3569 (EmployeeID: 369446.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3590 (EmployeeID: 272069.0):
+   - HighestDegree cannot be null or empty.
+
+Row 3634 (EmployeeID: 325500.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3916 (EmployeeID: 235374.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 3974 (EmployeeID: 485181.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4037 (EmployeeID: 253297.0):
+   - HighestDegree cannot be null or empty.
+
+Row 4078 (EmployeeID: 423394.0):
+   - HighestDegree cannot be null or empty.
+
+Row 4088 (EmployeeID: 204697.0):
+   - HighestDegree cannot be null or empty.
+
+Row 4226 (EmployeeID: 125058.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4363 (EmployeeID: 226885.0):
+   - HighestDegree cannot be null or empty.
+
+Row 4423 (EmployeeID: 207716.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4676 (EmployeeID: 439229.0):
+   - HighestDegree cannot be null or empty.
+
+Row 4937 (EmployeeID: 279424.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 4993 (EmployeeID: 227085.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5012 (EmployeeID: 215829.0):
+   - HighestDegree cannot be null or empty.
+
+Row 5080 (EmployeeID: 209952.0):
+   - HighestDegree cannot be null or empty.
+
+Row 5156 (EmployeeID: 221820.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5162 (EmployeeID: 232256.0):
+   - HighestDegree cannot be null or empty.
+
+Row 5205 (EmployeeID: 459589.0):
+   - HighestDegree cannot be null or empty.
+
+Row 5251 (EmployeeID: 226007.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5497 (EmployeeID: 214617.0):
+   - HighestDegree cannot be null or empty.
+
+Row 5633 (EmployeeID: 289277.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5692 (EmployeeID: 253502.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 5731 (EmployeeID: 403049.0):
+   - HighestDegree cannot be null or empty.
+
+Row 5950 (EmployeeID: 377293.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6198 (EmployeeID: 390711.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6290 (EmployeeID: 285750.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6343 (EmployeeID: 223290.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 6937 (EmployeeID: 293068.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7010 (EmployeeID: 278134.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7056 (EmployeeID: 390619.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7539 (EmployeeID: 138405.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7566 (EmployeeID: 250188.0):
+   - HighestDegree cannot be null or empty.
+
+Row 7576 (EmployeeID: 223789.0):
+   - HighestDegree cannot be null or empty.
+
+Row 7664 (EmployeeID: 329076.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7674 (EmployeeID: 239093.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 7694 (EmployeeID: 149173.0):
+   - HighestDegree cannot be null or empty.
+
+Row 7697 (EmployeeID: 496447.0):
+   - HighestDegree cannot be null or empty.
+
+Row 7828 (EmployeeID: 217369.0):
+   - HighestDegree cannot be null or empty.
+
+Row 8093 (EmployeeID: 265765.0):
+   - HighestDegree cannot be null or empty.
+
+Row 8125 (EmployeeID: 229129.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 8140 (EmployeeID: 122170.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 8206 (EmployeeID: 482616.0):
+   - HighestDegree cannot be null or empty.
+
+Row 8211 (EmployeeID: 234681.0):
+   - HighestDegree cannot be null or empty.
+
+Row 8268 (EmployeeID: 161558.0):
+   - HighestDegree cannot be null or empty.
+
+Row 8679 (EmployeeID: 270225.0):
+   - HighestDegree cannot be null or empty.
+
+Row 8917 (EmployeeID: 208117.0):
+   - HighestDegree cannot be null or empty.
+
+Row 9181 (EmployeeID: 298683.0):
+   - HighestDegree cannot be null or empty.
+
+Row 9249 (EmployeeID: 332767.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 9350 (EmployeeID: 207310.0):
+   - HighestDegree cannot be null or empty.
+
+Row 9583 (EmployeeID: 287347.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 9602 (EmployeeID: 155408.0):
+   - HighestDegree cannot be null or empty.
+
+Row 10000 (EmployeeID: 278298.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10005 (EmployeeID: 227033.0):
+   - HighestDegree cannot be null or empty.
+
+Row 10045 (EmployeeID: 384656.0):
+   - HighestDegree cannot be null or empty.
+
+Row 10130 (EmployeeID: 217964.0):
+   - HighestDegree cannot be null or empty.
+
+Row 10336 (EmployeeID: 290007.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10442 (EmployeeID: 389905.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10735 (EmployeeID: 236054.0):
+   - HighestDegree cannot be null or empty.
+
+Row 10745 (EmployeeID: 288830.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 10752 (EmployeeID: 204154.0):
+   - HighestDegree cannot be null or empty.
+
+Row 10759 (EmployeeID: 296704.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 11105 (EmployeeID: 240880.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 11110 (EmployeeID: 461216.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11130 (EmployeeID: 210155.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11174 (EmployeeID: 307685.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11186 (EmployeeID: 309088.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11305 (EmployeeID: 243316.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11639 (EmployeeID: 229456.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11867 (EmployeeID: 267820.0):
+   - HighestDegree cannot be null or empty.
+
+Row 11876 (EmployeeID: 222402.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12101 (EmployeeID: 477763.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12164 (EmployeeID: 244867.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12200 (EmployeeID: 244448.0):
+   - HighestDegree cannot be null or empty.
+
+Row 12371 (EmployeeID: 281188.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12543 (EmployeeID: 205971.0):
+   - HighestDegree cannot be null or empty.
+
+Row 12635 (EmployeeID: 232289.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12659 (EmployeeID: 223969.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 12670 (EmployeeID: 206976.0):
+   - HighestDegree cannot be null or empty.
+
+Row 12949 (EmployeeID: 495285.0):
+   - HighestDegree cannot be null or empty.
+
+Row 12973 (EmployeeID: 456179.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 13056 (EmployeeID: 282383.0):
+   - HighestDegree cannot be null or empty.
+
+Row 13214 (EmployeeID: 287539.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 13572 (EmployeeID: 277831.0):
+   - HighestDegree cannot be null or empty.
+
+Row 13624 (EmployeeID: 160790.0):
+   - HighestDegree cannot be null or empty.
+
+Row 13764 (EmployeeID: 422984.0):
+   - HighestDegree cannot be null or empty.
+
+Row 13768 (EmployeeID: 359063.0):
+   - HighestDegree cannot be null or empty.
+
+Row 13790 (EmployeeID: 277645.0):
+   - HighestDegree cannot be null or empty.
+
+Row 13827 (EmployeeID: 294427.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 13947 (EmployeeID: 199906.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 14011 (EmployeeID: 480117.0):
+   - HighestDegree cannot be null or empty.
+
+Row 14044 (EmployeeID: 433408.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 14046 (EmployeeID: 200101.0):
+   - HighestDegree cannot be null or empty.
+
+Row 14054 (EmployeeID: 326720.0):
+   - Email must be in format 'firstname_lastname_number@KLB.com'.
+
+Row 14154 (EmployeeID: 218529.0):
+   - HighestDegree cannot be null or empty.
+
+Row 14176 (EmployeeID: 219491.0):
+   - HighestDegree cannot be null or empty.
+
+Error Summary:
+                                               Error Message  Count
+                      HighestDegree cannot be null or empty.     71
+Email must be in format 'firstname_lastname_number@KLB.com'.     56
+
+Total Rows Processed: 14321
+Total Rows with Errors: 126
+Total Error Messages: 127  <-- graded count (must be < 50)
