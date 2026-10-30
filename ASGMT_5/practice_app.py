@@ -12,7 +12,7 @@ from sqlalchemy import create_engine, text
 # ---------------- CONFIG: edit once ----------------
 DB_NAME = "EmployeeDB"
 DB_USER = "postgres"
-DB_PASSWORD = "admin"      # change to YOUR PostgreSQL password
+DB_PASSWORD = "Superuser2006"      # change to YOUR PostgreSQL password
 DB_HOST = "localhost"
 DB_PORT = "5432"
 # ----------------------------------------------------
