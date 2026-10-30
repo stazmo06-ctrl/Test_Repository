@@ -2,5 +2,5 @@ nyc_covid_outcomes.db
 #Holds database
 bigquery-key.json
 *-service-account*.json, *.db
-daen328_env
+daen328_venv
 daen328maincomputer_venv
